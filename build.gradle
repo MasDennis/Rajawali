@@ -1,5 +1,5 @@
 buildscript {
-    ext.dokka_version = '0.9.18'
+    ext.dokka_version = '1.5.0'
     ext.kotlin_version = '1.4.32'
     repositories {
         google()
