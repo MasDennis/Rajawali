@@ -1,6 +1,6 @@
 buildscript {
     ext.dokka_version = '0.9.18'
-    ext.kotlin_version = '1.4.32'
+    ext.kotlin_version = '1.5.20'
     repositories {
         google()
         jcenter()
